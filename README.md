@@ -32,6 +32,15 @@ Pour utiliser **Better-Deezer**, suivez ces étapes :
 3. **Utiliser le script** :
    - Le script sera automatiquement exécuté à chaque fois que vous accédez à Deezer via votre navigateur.
 
+## Avant l'utilisation du script
+
+![Avant](./images/avant.png)
+
+## Après l'utilisation du script
+
+![Après](./images/apres.png)
+
+
 ## Contribution
 
 Les contributions sont les bienvenues ! Si vous avez des idées ou des améliorations à proposer, ouvrez une issue ou soumettez une pull request.
