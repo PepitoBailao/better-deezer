@@ -17,16 +17,20 @@
 Pour utiliser **Better-Deezer**, suivez ces étapes :
 
 1. **Installer l'extension Tampermonkey** :
-   - [Firefox Add-ons - Tampermonkey](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/)
-   
+   - [Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/)
+   - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/ldgfbffkinooeloadekpmfoklnobpien)
+   - [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089?mt=12)
+   - [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
+
 2. **Ajouter le script Better-Deezer** :
-   - Ouvrez Tampermonkey dans Firefox.
+   - Ouvrez Tampermonkey dans votre navigateur.
    - Cliquez sur "Créer un nouveau script".
    - Copiez-collez le code de `better-deezer.user.js` dans l'éditeur.
    - Enregistrez le script.
 
 3. **Utiliser le script** :
-   - Le script sera automatiquement exécuté à chaque fois que vous accédez à Deezer via le navigateur Firefox.
+   - Le script sera automatiquement exécuté à chaque fois que vous accédez à Deezer via votre navigateur.
 
 ## Contribution
 
