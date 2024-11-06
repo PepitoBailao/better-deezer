@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Masquer les playlists personnalisées
+// @name         Better Deezer
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      Alpha+
 // @description  Masque toutes les playlists créées par des artistes spécifiques sur Deezer.
 // @author       PepitoBailao
 // @match        https://www.deezer.com/*
